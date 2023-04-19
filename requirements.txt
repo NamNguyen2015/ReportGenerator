@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+matplotlib
+xlsxwriter
+Openpyxl 
+pip
+pillow
+
